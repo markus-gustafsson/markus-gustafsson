@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/markus-gustafsson-3935a21a1/">
+    <a href="https://www.linkedin.com/in/markus-gustafsson-3935a21a1/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
     </a>
 </div>
